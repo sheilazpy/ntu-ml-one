@@ -5,7 +5,7 @@
 %           algorithm. First, we use an artificial data set to study
 %           PLA.
 %=====================================================================
-function hw1_q18
+function hw1_q18()
 
    %------------------------------------------------------------------
    % Parameters
